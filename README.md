@@ -14,6 +14,7 @@ We analyze weather data collected over 7 years (1/2010 - 8/2017) to describe the
 ## Analysis
 Further, we take a look at precipitation as it compares to temperature in the following scatterplots:
 ![Combined Temperatures](https://github.com/DenverSherman/Surfs_up/blob/master/Analysis/Combined%20Temp%20Scatter.png)
+
 This details when precipitation occurs within each month. Generally speaking, rainfall in June occurs during lower temperature days, whereas December rainfall occurs during moderate temperatures. Extreme levels of rainfall are infrequent, however there are many occurences of 0-1 inches of rainfall. Each precipitation plot's data is queried using the following:
 
 ```python
