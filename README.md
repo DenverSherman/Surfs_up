@@ -2,7 +2,7 @@
 Tracking weather data for prospective surf shop.
 
 ## Overview
-We analyze weather data collected over 7 years (1/2010 - 8/2017) to describe the climate at a prospective Surf n' Shakes shop location. Temperature data is reviewed and summary statistics are provided. This is later compared to precipitation to understand the combined effect of both out key data points.
+We analyze weather data collected over 7 years (1/2010 - 8/2017) to describe the climate at a prospective Surf n' Shakes shop location. Temperature data is reviewed and summary statistics are provided. This is later compared to precipitation to understand the combined effect of both our key data points.
 
 ## Results
 ![Combined Temperatures](https://github.com/DenverSherman/Surfs_up/blob/master/Analysis/Combined%20Temps.png)
